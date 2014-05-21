@@ -1,0 +1,12 @@
+{
+  "name": "node-kegboard",
+  "description": "Node implementation of KegBoard Serial Protocol.",
+  "version": "0.0.1",
+  "contributors": [
+    "Max Thorson <max.thorson@collemcvoy.com>"
+  ],
+  "private": true,
+  "dependencies": {
+
+  }
+}
