@@ -8,6 +8,7 @@
   "private": true,
   "dependencies": {
     "bufferpack": "0.0.6",
+    "crc": "^2.0.0",
     "serialport": "^1.4.0",
     "underscore": "^1.6.0"
   }
